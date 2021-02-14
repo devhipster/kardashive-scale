@@ -149,7 +149,7 @@ namespace GOD_GOD_V1
                 db.CDatabase(Folder, BaseDados, queryCurso);
                 db.CDatabase(Folder, BaseDados, queryMensagem);
                 db.CDatabase(Folder, BaseDados, queryDireitor);
-                Toast.MakeText(this, "Seje bem-vindo ao Point Book", ToastLength.Short)
+                Toast.MakeText(this, "Bem-vindo ao Appointment book", ToastLength.Short)
                    .Show();
                  
                 try
