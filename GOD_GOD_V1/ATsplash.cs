@@ -10,7 +10,7 @@ using Android.Telephony;
 using System.Collections.Generic;
 namespace GOD_GOD_V1
 {
-    [Activity(Label = "Point Book", MainLauncher = true)]
+    [Activity(Label = "Appointment Scheduler app ", MainLauncher = true)]
     #region ATSplashClassStart
     public class ATsplash : Activity
     {
