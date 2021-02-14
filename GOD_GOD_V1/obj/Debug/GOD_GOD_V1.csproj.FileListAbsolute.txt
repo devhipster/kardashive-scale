@@ -1,0 +1,509 @@
+C:\Users\Angelo Leoonel\Documents\SGP\GOD_GOD_V1\GOD_GOD_V1\bin\Debug\GOD_GOD_V1.dll
+C:\Users\Angelo Leoonel\Documents\SGP\GOD_GOD_V1\GOD_GOD_V1\bin\Debug\GOD_GOD_V1.pdb
+C:\Users\Angelo Leoonel\Documents\SGP\GOD_GOD_V1\GOD_GOD_V1\bin\Debug\GOD_GOD_V1.GOD_GOD_V1.apk
+C:\Users\Angelo Leoonel\Documents\SGP\GOD_GOD_V1\GOD_GOD_V1\bin\Debug\GOD_GOD_V1.GOD_GOD_V1-Signed.apk
+C:\Users\Angelo Leoonel\Documents\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\GOD_GOD_V1.csproj.CoreCompileInputs.cache
+C:\Users\Angelo Leoonel\Documents\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\GOD_GOD_V1.dll
+C:\Users\Angelo Leoonel\Documents\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\GOD_GOD_V1.pdb
+C:\Users\Angelo Leoonel\Documents\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\android\bin\GOD_GOD_V1.GOD_GOD_V1.apk
+C:\Users\Angelo Leoonel\Documents\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\values\strings.xml
+C:\Users\Angelo Leoonel\Documents\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\R.cs.flag
+C:\Users\Angelo Leoonel\Documents\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\uploadflags.txt
+C:\Users\Angelo Leoonel\Documents\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lysplash.xml
+C:\Users\Angelo Leoonel\Documents\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\logo_sgp.png
+C:\Users\Angelo Leoonel\Documents\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\logo_sgp_background.png
+C:\Users\Angelo Leoonel\Documents\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lylogin.xml
+C:\Users\Angelo Leoonel\Documents\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\login_background.png
+C:\Users\Angelo Leoonel\Documents\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lymensagem.xml
+C:\Users\Angelo Leoonel\Documents\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\GOD_GOD_V1.csprojResolveAssemblyReference.cache
+C:\Users\Angelo Leoonel\Documents\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\messenger.png
+C:\Users\Angelo Leoonel\Documents\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lyadmin_home.xml
+C:\Users\Angelo Leoonel\Documents\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lyalterar.xml
+C:\Users\Angelo Leoonel\Documents\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lyprofessoraula.xml
+C:\Users\Angelo Leoonel\Documents\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\messenger_v2.png
+C:\Users\Angelo Leoonel\Documents\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\background_rceover4.png
+C:\Users\Angelo Leoonel\Documents\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\avatarprofile.png
+C:\Users\Angelo Leoonel\Documents\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\bin\Debug\GOD_GOD_V1.dll
+C:\Users\Angelo Leoonel\Documents\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\bin\Debug\GOD_GOD_V1.pdb
+C:\Users\Angelo Leoonel\Documents\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\bin\Debug\GOD_GOD_V1.GOD_GOD_V1.apk
+C:\Users\Angelo Leoonel\Documents\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\bin\Debug\GOD_GOD_V1.GOD_GOD_V1-Signed.apk
+C:\Users\Angelo Leoonel\Documents\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\GOD_GOD_V1.csproj.CoreCompileInputs.cache
+C:\Users\Angelo Leoonel\Documents\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\GOD_GOD_V1.dll
+C:\Users\Angelo Leoonel\Documents\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\GOD_GOD_V1.pdb
+C:\Users\Angelo Leoonel\Documents\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\android\bin\GOD_GOD_V1.GOD_GOD_V1.apk
+C:\Users\Angelo Leoonel\Documents\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lylogin.xml
+C:\Users\Angelo Leoonel\Documents\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lymensagem.xml
+C:\Users\Angelo Leoonel\Documents\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lyadmin_home.xml
+C:\Users\Angelo Leoonel\Documents\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lyalterar.xml
+C:\Users\Angelo Leoonel\Documents\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lyprofessoraula.xml
+C:\Users\Angelo Leoonel\Documents\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lysplash.xml
+C:\Users\Angelo Leoonel\Documents\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\values\strings.xml
+C:\Users\Angelo Leoonel\Documents\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\logo_sgp.png
+C:\Users\Angelo Leoonel\Documents\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\logo_sgp_background.png
+C:\Users\Angelo Leoonel\Documents\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\login_background.png
+C:\Users\Angelo Leoonel\Documents\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\messenger.png
+C:\Users\Angelo Leoonel\Documents\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\messenger_v2.png
+C:\Users\Angelo Leoonel\Documents\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\background_rceover4.png
+C:\Users\Angelo Leoonel\Documents\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\avatarprofile.png
+C:\Users\Angelo Leoonel\Documents\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\R.cs.flag
+C:\Users\Angelo Leoonel\Documents\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\uploadflags.txt
+C:\Users\Angelo Leoonel\Documents\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\bin\Debug\System.Data.Portable.dll
+C:\Users\Angelo Leoonel\Documents\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\bin\Debug\System.Transactions.Portable.dll
+C:\Users\Angelo Leoonel\Documents\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\boy.png
+C:\Users\Angelo Leoonel\Documents\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\boy2.png
+C:\Users\Angelo Leoonel\Documents\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\girl.png
+C:\Users\Angelo Leoonel\Documents\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\girl1.png
+C:\Users\Angelo Leoonel\Documents\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\man.png
+C:\Users\Angelo Leoonel\Documents\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\man1.png
+C:\Users\Angelo Leoonel\Documents\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\man2.png
+C:\Users\Angelo Leoonel\Documents\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\man3.png
+C:\Users\Angelo Leoonel\Documents\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\man4.png
+C:\Users\Angelo Leoonel\Documents\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lyerro.xml
+C:\Users\Angelo Leoonel\Documents\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\logo.png
+C:\Users\Angelo Leoonel\Documents\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\button_alpha.png
+C:\Users\Angelo Leoonel\Documents\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\fundo.png
+C:\Users\Angelo Leoonel\Documents\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\warning.png
+C:\Users\Angelo Leoonel\Documents\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\invoice.png
+C:\Users\Angelo Leoonel\Documents\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\agenda.png
+C:\Users\Angelo Leoonel\Documents\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\computer.png
+C:\Users\Angelo Leoonel\Documents\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lycardviewwelcome.xml
+C:\Users\Angelo Leoonel\Documents\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\admin_backgroun.png
+C:\Users\Angelo Leoonel\Documents\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\watercoloruniverse.jpg
+C:\Users\Angelo Leoonel\Documents\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lyadmin_relatorio.xml
+C:\Users\Angelo Leoonel\Documents\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lyadminmessage.xml
+C:\Users\Angelo Leoonel\Documents\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\listasms.xml
+C:\Users\Angelo Leoonel\Documents\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\listarelatorio.xml
+C:\Users\Angelo Leoonel\Documents\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\user.png
+C:\Users\Angelo Leoonel\Documents\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\search.png
+C:\Users\Angelo Leoonel\Documents\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\settings1.png
+C:\Users\Angelo Leoonel\Documents\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\statistics.png
+C:\Users\Angelo Leoonel\Documents\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\chat.png
+C:\Users\Angelo Leoonel\Documents\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\pie_chart.png
+C:\Users\Angelo Leoonel\Documents\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\lowpoly.jpg
+C:\Users\Angelo Leoonel\Documents\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\helpshiftillus.gif
+C:\Users\Angelo Leoonel\Documents\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\a1.png
+C:\Users\Angelo Leoonel\Documents\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\a2.png
+C:\Users\Angelo Leoonel\Documents\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\polywallpapers.jpg
+C:\Users\Angelo Leoonel\Documents\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\lowwallpapers.png
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\bin\Debug\GOD_GOD_V1.dll
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\bin\Debug\GOD_GOD_V1.pdb
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\bin\Debug\GOD_GOD_V1.GOD_GOD_V1.apk
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\bin\Debug\GOD_GOD_V1.GOD_GOD_V1-Signed.apk
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\bin\Debug\System.Data.Portable.dll
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\bin\Debug\System.Transactions.Portable.dll
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\GOD_GOD_V1.csprojResolveAssemblyReference.cache
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\GOD_GOD_V1.csproj.CoreCompileInputs.cache
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\GOD_GOD_V1.dll
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\GOD_GOD_V1.pdb
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\android\bin\GOD_GOD_V1.GOD_GOD_V1.apk
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lylogin.xml
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lymensagem.xml
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lyadmin_home.xml
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lyalterar.xml
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lyprofessoraula.xml
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lyerro.xml
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lycardviewwelcome.xml
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lyadmin_relatorio.xml
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lyadminmessage.xml
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lysplash.xml
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\values\strings.xml
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\logo_sgp.png
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\logo_sgp_background.png
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\login_background.png
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\messenger.png
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\messenger_v2.png
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\background_rceover4.png
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\avatarprofile.png
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\boy.png
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\boy2.png
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\girl.png
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\girl1.png
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\man.png
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\man1.png
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\man2.png
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\man3.png
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\man4.png
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\logo.png
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\button_alpha.png
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\fundo.png
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\warning.png
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\invoice.png
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\agenda.png
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\computer.png
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\admin_backgroun.png
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\watercoloruniverse.jpg
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\user.png
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\search.png
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\settings1.png
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\statistics.png
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\chat.png
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\pie_chart.png
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\lowpoly.jpg
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\helpshiftillus.gif
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\a1.png
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\a2.png
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\polywallpapers.jpg
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\lowwallpapers.png
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\R.cs.flag
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\uploadflags.txt
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\bin\Debug\GOD_GOD_V1.dll.mdb
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\android\assets\GOD_GOD_V1.dll.mdb
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lylistasms.xml
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lylistarelatorio.xml
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lybox.xml
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\preview.png
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\uxprofbg.png
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\uxprofbg2.png
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\uxprofbg3.png
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\ic_menu_black_48dp.png
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\ic_menu_48pt.png
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\ic_settings_black_48dp.png
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\ic_settings_black_24dp.png
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\ic_today_black_48dp.png
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\listalunosprof.xml
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\menuit.xml
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\uxadminbg.png
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\uxadminbg2.png
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\ic_message_black_48dp_1x.png
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\ic_library_books_black_48dp_1x.png
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\adminlistitemsms.xml
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\adminlistitemrelatorioa1.xml
+C:\Users\sehr gute\Downloads\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\adminlistitemrelatorioa2.xml
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\bin\Debug\GOD_GOD_V1.dll
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\bin\Debug\GOD_GOD_V1.pdb
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\bin\Debug\GOD_GOD_V1.GOD_GOD_V1.apk
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\bin\Debug\GOD_GOD_V1.GOD_GOD_V1-Signed.apk
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\bin\Debug\System.Data.Portable.dll
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\bin\Debug\System.Transactions.Portable.dll
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\GOD_GOD_V1.csprojResolveAssemblyReference.cache
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\GOD_GOD_V1.csproj.CoreCompileInputs.cache
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\GOD_GOD_V1.dll
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\GOD_GOD_V1.pdb
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\android\bin\GOD_GOD_V1.GOD_GOD_V1.apk
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lylogin.xml
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lymensagem.xml
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lyalterar.xml
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lyprofessoraula.xml
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lyerro.xml
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lycardviewwelcome.xml
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lyadmin_relatorio.xml
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lyadminmessage.xml
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lylistasms.xml
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lylistarelatorio.xml
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lybox.xml
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\listalunosprof.xml
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\menuit.xml
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lyadmin_home.xml
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\adminlistitemsms.xml
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\adminlistitemrelatorioa1.xml
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\adminlistitemrelatorioa2.xml
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lysplash.xml
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\values\strings.xml
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\logo_sgp.png
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\logo_sgp_background.png
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\login_background.png
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\messenger.png
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\messenger_v2.png
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\background_rceover4.png
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\avatarprofile.png
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\boy.png
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\boy2.png
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\girl.png
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\girl1.png
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\man.png
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\man1.png
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\man2.png
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\man3.png
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\man4.png
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\logo.png
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\button_alpha.png
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\fundo.png
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\warning.png
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\invoice.png
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\agenda.png
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\computer.png
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\admin_backgroun.png
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\watercoloruniverse.jpg
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\user.png
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\search.png
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\settings1.png
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\statistics.png
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\chat.png
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\pie_chart.png
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\lowpoly.jpg
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\helpshiftillus.gif
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\a1.png
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\a2.png
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\polywallpapers.jpg
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\lowwallpapers.png
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\preview.png
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\uxprofbg.png
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\uxprofbg2.png
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\uxprofbg3.png
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\ic_menu_black_48dp.png
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\ic_menu_48pt.png
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\ic_settings_black_48dp.png
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\ic_settings_black_24dp.png
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\ic_today_black_48dp.png
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\uxadminbg.png
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\uxadminbg2.png
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\ic_message_black_48dp_1x.png
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\ic_library_books_black_48dp_1x.png
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\R.cs.flag
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\uploadflags.txt
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\bin\Debug\GOD_GOD_V1.dll.mdb
+K:\SGP\SGP\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\android\assets\GOD_GOD_V1.dll.mdb
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\bin\Debug\GOD_GOD_V1.dll
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\bin\Debug\GOD_GOD_V1.pdb
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\bin\Debug\GOD_GOD_V1.GOD_GOD_V1.apk
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\bin\Debug\GOD_GOD_V1.GOD_GOD_V1-Signed.apk
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\bin\Debug\System.Data.Portable.dll
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\bin\Debug\System.Transactions.Portable.dll
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\GOD_GOD_V1.csprojResolveAssemblyReference.cache
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\GOD_GOD_V1.csproj.CoreCompileInputs.cache
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\GOD_GOD_V1.dll
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\GOD_GOD_V1.pdb
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\android\bin\GOD_GOD_V1.GOD_GOD_V1.apk
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lylogin.xml
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lymensagem.xml
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lyalterar.xml
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lyprofessoraula.xml
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lyerro.xml
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lycardviewwelcome.xml
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lyadmin_relatorio.xml
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lyadminmessage.xml
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lylistasms.xml
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lylistarelatorio.xml
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lybox.xml
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\listalunosprof.xml
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\menuit.xml
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lyadmin_home.xml
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\adminlistitemsms.xml
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\adminlistitemrelatorioa1.xml
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\adminlistitemrelatorioa2.xml
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lysplash.xml
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\values\strings.xml
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\logo_sgp.png
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\logo_sgp_background.png
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\login_background.png
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\messenger.png
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\messenger_v2.png
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\background_rceover4.png
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\avatarprofile.png
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\boy.png
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\boy2.png
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\girl.png
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\girl1.png
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\man.png
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\man1.png
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\man2.png
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\man3.png
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\man4.png
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\logo.png
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\button_alpha.png
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\fundo.png
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\warning.png
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\invoice.png
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\agenda.png
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\computer.png
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\admin_backgroun.png
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\watercoloruniverse.jpg
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\user.png
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\search.png
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\settings1.png
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\statistics.png
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\chat.png
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\pie_chart.png
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\lowpoly.jpg
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\helpshiftillus.gif
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\a1.png
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\a2.png
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\polywallpapers.jpg
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\lowwallpapers.png
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\preview.png
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\uxprofbg.png
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\uxprofbg2.png
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\uxprofbg3.png
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\ic_menu_black_48dp.png
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\ic_menu_48pt.png
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\ic_settings_black_48dp.png
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\ic_settings_black_24dp.png
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\ic_today_black_48dp.png
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\uxadminbg.png
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\uxadminbg2.png
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\ic_message_black_48dp_1x.png
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\ic_library_books_black_48dp_1x.png
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\R.cs.flag
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\uploadflags.txt
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\bin\Debug\GOD_GOD_V1.dll.mdb
+C:\Users\sehr gute\Videos\Finish\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\android\assets\GOD_GOD_V1.dll.mdb
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\bin\Debug\GOD_GOD_V1.dll
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\bin\Debug\GOD_GOD_V1.pdb
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\bin\Debug\GOD_GOD_V1.GOD_GOD_V1.apk
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\bin\Debug\GOD_GOD_V1.GOD_GOD_V1-Signed.apk
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\bin\Debug\System.Data.Portable.dll
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\bin\Debug\System.Transactions.Portable.dll
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\GOD_GOD_V1.csproj.CoreCompileInputs.cache
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\GOD_GOD_V1.dll
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\GOD_GOD_V1.pdb
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\android\bin\GOD_GOD_V1.GOD_GOD_V1.apk
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lylogin.xml
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lymensagem.xml
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lyalterar.xml
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lyprofessoraula.xml
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lyerro.xml
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lycardviewwelcome.xml
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lyadmin_relatorio.xml
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lyadminmessage.xml
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lylistasms.xml
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lylistarelatorio.xml
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lybox.xml
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\listalunosprof.xml
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\menuit.xml
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lyadmin_home.xml
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\adminlistitemsms.xml
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\adminlistitemrelatorioa1.xml
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\adminlistitemrelatorioa2.xml
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lysplash.xml
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\values\strings.xml
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\logo_sgp.png
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\logo_sgp_background.png
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\login_background.png
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\messenger.png
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\messenger_v2.png
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\background_rceover4.png
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\avatarprofile.png
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\boy.png
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\boy2.png
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\girl.png
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\girl1.png
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\man.png
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\man1.png
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\man2.png
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\man3.png
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\man4.png
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\logo.png
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\button_alpha.png
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\fundo.png
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\warning.png
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\invoice.png
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\agenda.png
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\computer.png
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\admin_backgroun.png
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\watercoloruniverse.jpg
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\user.png
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\search.png
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\settings1.png
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\statistics.png
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\chat.png
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\pie_chart.png
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\lowpoly.jpg
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\helpshiftillus.gif
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\a1.png
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\a2.png
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\polywallpapers.jpg
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\lowwallpapers.png
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\preview.png
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\uxprofbg.png
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\uxprofbg2.png
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\uxprofbg3.png
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\ic_menu_black_48dp.png
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\ic_menu_48pt.png
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\ic_settings_black_48dp.png
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\ic_settings_black_24dp.png
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\ic_today_black_48dp.png
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\uxadminbg.png
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\uxadminbg2.png
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\ic_message_black_48dp_1x.png
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\ic_library_books_black_48dp_1x.png
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\R.cs.flag
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\uploadflags.txt
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\bin\Debug\GOD_GOD_V1.dll.mdb
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\android\assets\GOD_GOD_V1.dll.mdb
+C:\Users\sehr gute\Pictures\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\GOD_GOD_V1.csprojResolveAssemblyReference.cache
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\bin\Debug\GOD_GOD_V1.dll
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\bin\Debug\GOD_GOD_V1.pdb
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\bin\Debug\GOD_GOD_V1.GOD_GOD_V1.apk
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\bin\Debug\GOD_GOD_V1.GOD_GOD_V1-Signed.apk
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\bin\Debug\System.Data.Portable.dll
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\bin\Debug\System.Transactions.Portable.dll
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\GOD_GOD_V1.csprojResolveAssemblyReference.cache
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\GOD_GOD_V1.csproj.CoreCompileInputs.cache
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\GOD_GOD_V1.dll
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\GOD_GOD_V1.pdb
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\android\bin\GOD_GOD_V1.GOD_GOD_V1.apk
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lylogin.xml
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lymensagem.xml
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lyalterar.xml
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lyprofessoraula.xml
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lyerro.xml
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lycardviewwelcome.xml
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lyadmin_relatorio.xml
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lyadminmessage.xml
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lylistasms.xml
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lylistarelatorio.xml
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lybox.xml
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\listalunosprof.xml
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\menuit.xml
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lyadmin_home.xml
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\adminlistitemsms.xml
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\adminlistitemrelatorioa1.xml
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\adminlistitemrelatorioa2.xml
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lysplash.xml
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\values\strings.xml
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\logo_sgp.png
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\logo_sgp_background.png
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\login_background.png
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\messenger.png
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\messenger_v2.png
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\background_rceover4.png
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\avatarprofile.png
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\boy.png
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\boy2.png
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\girl.png
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\girl1.png
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\man.png
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\man1.png
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\man2.png
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\man3.png
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\man4.png
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\logo.png
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\button_alpha.png
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\fundo.png
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\warning.png
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\invoice.png
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\agenda.png
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\computer.png
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\admin_backgroun.png
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\watercoloruniverse.jpg
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\user.png
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\search.png
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\settings1.png
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\statistics.png
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\chat.png
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\pie_chart.png
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\lowpoly.jpg
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\helpshiftillus.gif
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\a1.png
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\a2.png
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\polywallpapers.jpg
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\lowwallpapers.png
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\preview.png
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\uxprofbg.png
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\uxprofbg2.png
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\uxprofbg3.png
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\ic_menu_black_48dp.png
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\ic_menu_48pt.png
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\ic_settings_black_48dp.png
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\ic_settings_black_24dp.png
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\ic_today_black_48dp.png
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\uxadminbg.png
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\uxadminbg2.png
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\ic_message_black_48dp_1x.png
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\drawable\ic_library_books_black_48dp_1x.png
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\R.cs.flag
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\uploadflags.txt
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\bin\Debug\GOD_GOD_V1.dll.mdb
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\android\assets\GOD_GOD_V1.dll.mdb
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\lysumario.xml
+C:\Users\sehr gute\Documents\Point_Book_App\V2\GOD_GOD_V1\GOD_GOD_V1\obj\Debug\res\layout\ly_relatoriofinal.xml

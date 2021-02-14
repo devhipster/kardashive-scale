@@ -1,0 +1,28 @@
+GOD_GOD_V1.AdminRelatorioA2, GOD_GOD_V1;md56f24a11a8d0777164af0c13877730ea2.AdminRelatorioA2
+GOD_GOD_V1.AdminRelatorioA2, GOD_GOD_V1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md56f24a11a8d0777164af0c13877730ea2.AdminRelatorioA2
+GOD_GOD_V1.AdminRelatorioA2;md56f24a11a8d0777164af0c13877730ea2.AdminRelatorioA2
+god_god_v1.AdminRelatorioA2;md56f24a11a8d0777164af0c13877730ea2.AdminRelatorioA2
+GOD_GOD_V1.AdminSMS, GOD_GOD_V1;md56f24a11a8d0777164af0c13877730ea2.AdminSMS
+GOD_GOD_V1.AdminSMS, GOD_GOD_V1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md56f24a11a8d0777164af0c13877730ea2.AdminSMS
+GOD_GOD_V1.AdminSMS;md56f24a11a8d0777164af0c13877730ea2.AdminSMS
+god_god_v1.AdminSMS;md56f24a11a8d0777164af0c13877730ea2.AdminSMS
+GOD_GOD_V1.ATlogin, GOD_GOD_V1;md56f24a11a8d0777164af0c13877730ea2.ATlogin
+GOD_GOD_V1.ATlogin, GOD_GOD_V1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md56f24a11a8d0777164af0c13877730ea2.ATlogin
+GOD_GOD_V1.ATlogin;md56f24a11a8d0777164af0c13877730ea2.ATlogin
+god_god_v1.ATlogin;md56f24a11a8d0777164af0c13877730ea2.ATlogin
+GOD_GOD_V1.ATsplash, GOD_GOD_V1;md56f24a11a8d0777164af0c13877730ea2.ATsplash
+GOD_GOD_V1.ATsplash, GOD_GOD_V1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md56f24a11a8d0777164af0c13877730ea2.ATsplash
+GOD_GOD_V1.ATsplash;md56f24a11a8d0777164af0c13877730ea2.ATsplash
+god_god_v1.ATsplash;md56f24a11a8d0777164af0c13877730ea2.ATsplash
+GOD_GOD_V1.AT_home, GOD_GOD_V1;md56f24a11a8d0777164af0c13877730ea2.AT_home
+GOD_GOD_V1.AT_home, GOD_GOD_V1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md56f24a11a8d0777164af0c13877730ea2.AT_home
+GOD_GOD_V1.AT_home;md56f24a11a8d0777164af0c13877730ea2.AT_home
+god_god_v1.AT_home;md56f24a11a8d0777164af0c13877730ea2.AT_home
+GOD_GOD_V1.AdminRelatorio, GOD_GOD_V1;md56f24a11a8d0777164af0c13877730ea2.AdminRelatorio
+GOD_GOD_V1.AdminRelatorio, GOD_GOD_V1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md56f24a11a8d0777164af0c13877730ea2.AdminRelatorio
+GOD_GOD_V1.AdminRelatorio;md56f24a11a8d0777164af0c13877730ea2.AdminRelatorio
+god_god_v1.AdminRelatorio;md56f24a11a8d0777164af0c13877730ea2.AdminRelatorio
+GOD_GOD_V1.ProfList, GOD_GOD_V1;md56f24a11a8d0777164af0c13877730ea2.ProfList
+GOD_GOD_V1.ProfList, GOD_GOD_V1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md56f24a11a8d0777164af0c13877730ea2.ProfList
+GOD_GOD_V1.ProfList;md56f24a11a8d0777164af0c13877730ea2.ProfList
+god_god_v1.ProfList;md56f24a11a8d0777164af0c13877730ea2.ProfList
